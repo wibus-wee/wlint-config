@@ -26,14 +26,12 @@ wlint config remove origin wibus-wee/wlint-config
 ```
 ## Auto Match Supports
 
-This repository supports some auto match rules. This feature is provided by [wlint](https://github.com/wibus-wee/wlint#automatic-matching-category).
+This repository supports some auto match rules. This feature is provided by [wlint](https://github.com/wibus-wee/wlint#automatic-matching-category). You should open `autoMatch` in your wlint config.
 
-Now, this repository supports these packages:
+Now, this repository supports these match rules:
 
-- nest - [nest](http://nestjs.com/)
-- next - [next](https://nextjs.org/)
-- react - [react](https://reactjs.org/)
 - default - recommended to use in a library project.
+- react - [react](https://reactjs.org/), [next](https://nextjs.org/)
 
 
 ## Author
