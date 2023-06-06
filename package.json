@@ -1,6 +1,6 @@
 {
   "name": "@wibus/wlint-config",
-  "version": "0.0.1-alpha.2",
+  "version": "0.0.1-alpha.3",
   "description": "wlint config repository",
   "main": "README.md",
   "files": [
