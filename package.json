@@ -1,0 +1,21 @@
+{
+  "name": "wlint-config",
+  "version": "0.0.0",
+  "description": "wlint config repository",
+  "main": "README.md",
+  "files": [
+    "."
+  ],
+  "bump": {
+    "leading": [
+      "git pull --rebase"
+    ],
+    "publish": true,
+    "allowed_branches": [
+      "main"
+    ]
+  },
+  "keywords": [],
+  "author": "wibus-wee",
+  "license": "MIT"
+}
