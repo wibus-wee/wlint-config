@@ -6,7 +6,8 @@
   "files": [
     "config.json",
     "default",
-    "react"
+    "react",
+    "jwcjs"
   ],
   "bump": {
     "leading": [
