@@ -1,5 +1,6 @@
 {
   "categories": {
-    "react": ["react", "next"]
+    "react": ["react", "next"],
+    "jwcjs": ["jwcjs"]
   }
 }
