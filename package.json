@@ -3,15 +3,11 @@
   "version": "0.0.1-alpha.4",
   "description": "wlint config repository",
   "main": "README.md",
-  "files": [
-    "config.json",
-    "default",
-    "react",
-    "jwcjs"
-  ],
+  "files": ["default","jwcjs","react","config.json"],
   "bump": {
     "leading": [
-      "git pull --rebase"
+      "git pull --rebase",
+      "node scripts/generate-files.js"
     ],
     "publish": true,
     "allowed_branches": [
